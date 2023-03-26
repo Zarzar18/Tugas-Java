@@ -1,0 +1,66 @@
+.card-text
+{
+    color: burlywood;
+}
+.card-title
+{
+    color: rgb(20, 231, 231);
+}
+.card {
+    display: inline-block;
+    width: 300px;
+    margin: 10px;   
+    padding: 10px;
+  }
+.flex-container > div 
+{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+.bebek
+{
+    background-image: url(image/bebek.jpg);
+    background-size: cover;
+}
+.kambing
+{
+    background-image: url(image/kambing.jpg);
+    background-size: cover;
+}
+.sapi
+{
+    background-image: url(image/sapi.jpg);
+    background-size: cover;
+}
+.kucing
+{
+    background-image: url(image/kucing.jpg);
+    background-size: cover;
+}
+.anjing
+{
+    background-image: url(image/anjing.jpg);
+    background-size: cover;
+}
+.pipit
+{
+    background-image: url(image/pipit.jpg);
+    background-size: cover;
+}
+.badak
+{
+    background-image: url(image/badak.jpg);
+    background-size: cover;
+}
+.cobra
+{
+    background-image: url(image/cobra.jpg);
+    background-size: cover;
+}
+.singa
+{
+    background-image: url(image/singa.jpg);
+    background-size: cover;
+}
